@@ -1,0 +1,65 @@
+# Road Accidents in France (2005–2023)  
+**Data Analysis · Google Colab · Power BI Dashboard**
+
+This project analyzes road accidents in France with a focus on  
+**accident severity, road users, locations, and temporal patterns.**  
+It combines Python-based preprocessing in Google Colab with a fully  
+interactive **Power BI dashboard**.
+
+---
+
+## 📁 Project Structure
+
+notebooks/
+00_road_accidents_france_data_exploration_and_file_merge.ipynb
+01_road_accidents_france_2019_2023_cleaning.ipynb
+02_road_accidents_france_data_visualization.ipynb
+03_road_accidents_france_PowerBI_preprocessing.ipynb
+
+powerbi/
+04_road_accidents_france_PowerBI_dashboard.pbix
+
+report/
+Project Report - Road accidents in France.pdf
+
+---
+
+## 🚀 Key Insights
+
+- Total accidents & severity trends across years  
+- Differences between departments (including overseas)  
+- User group comparisons (drivers, passengers, pedestrians)  
+- Speed limits, road types, and injury severity  
+- Age distribution and risk patterns  
+
+---
+
+## 🛠 Tools Used
+
+- **Python (Google Colab)** – Cleaning, merging, EDA  
+- **pandas, matplotlib, seaborn**  
+- **Power BI** – Data modelling, visualization  
+- **GitHub** – Versioning and portfolio hosting  
+
+---
+
+## 📊 Power BI Dashboard
+
+To explore the interactive dashboard:  
+1. Download the `.pbix` file from `/powerbi`  
+2. Open in **Power BI Desktop (Windows)**  
+
+---
+
+## 📄 Full Report
+
+The complete PDF report is available in `/report`.  
+It includes methodology, detailed analysis, and key recommendations.
+
+---
+
+## 👤 Author  
+**Markus Nordmann**  
+Data Analyst (Portfolio Track)  
+Passionate · Learning-oriented · Structured · Data-driven · Innovative 🧡
+
