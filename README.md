@@ -18,10 +18,13 @@ Below is a preview of one key page from the interactive Power BI dashboard:
 
 ---
 
-## 📈 Example Python Visualization
-**A key plot from the exploratory analysis performed in Python.**
+## 🐍 Python Visualization Example
 
-![EDA Screenshot](path/to/image.png)
+This choropleth map was generated using Python (pandas, geopandas, matplotlib) to highlight   
+the **share of severe road injuries across French departments (2019–2023)**.
+
+![Python Visualization](https://raw.githubusercontent.com/markus-nordmann/road-accidents-france/main/assets/python_viz_map.png)
+
 
 ---
 
