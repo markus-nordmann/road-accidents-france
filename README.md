@@ -10,17 +10,18 @@ The overall goal was to combine **statistical analysis** with an interactive **P
 
 ## 📁 Project Structure
 
-notebooks/
-00_road_accidents_france_data_exploration_and_file_merge.ipynb
-01_road_accidents_france_2019_2023_cleaning.ipynb
-02_road_accidents_france_data_visualization.ipynb
-03_road_accidents_france_PowerBI_preprocessing.ipynb
+notebooks/  
+&nbsp;&nbsp;├── 00_road_accidents_france_data_exploration_and_file_merge.ipynb  
+&nbsp;&nbsp;├── 01_road_accidents_france_2019_2023_cleaning.ipynb  
+&nbsp;&nbsp;├── 02_road_accidents_france_data_visualization.ipynb  
+&nbsp;&nbsp;└── 03_road_accidents_france_PowerBI_preprocessing.ipynb  
 
-powerbi/
-04_road_accidents_france_PowerBI_dashboard.pbix
+powerbi/  
+&nbsp;&nbsp;└── 04_road_accidents_france_PowerBI_dashboard.pbix  
 
-report/
-Project Report - Road accidents in France.pdf
+report/  
+&nbsp;&nbsp;└── Project Report – Road accidents in France.pdf
+
 
 ---
 
