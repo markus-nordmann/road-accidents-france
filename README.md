@@ -1,10 +1,10 @@
-# Road Accidents in France (2005–2023)  
+# Road Accidents in France (2019–2023)  
 **Data Analysis · Google Colab · Power BI Dashboard**
 
-This project analyzes road accidents in France with a focus on  
-**accident severity, road users, locations, and temporal patterns.**  
-It combines Python-based preprocessing in Google Colab with a fully  
-interactive **Power BI dashboard**.
+This project analyzes **over 270,000 road accidents** in France involving more than **600,000 people** between 2019 and 2023.  
+The focus is on identifying **which factors most influence injury severity** — for example, user profile, location, or speed limit.
+
+The overall goal was to combine **statistical analysis** with an interactive **Power BI dashboard** to generate meaningful insights that can support long-term **road-safety improvements**.
 
 ---
 
