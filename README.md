@@ -12,7 +12,7 @@ The overall goal was to combine **statistical analysis** with an interactive **P
 
 Below is a preview of one key page from the interactive Power BI dashboard:
 
-![Executive Summary Dashboard](link_to_image.png)
+![Dashboard Summary](https://raw.githubusercontent.com/markus-nordmann/road-accidents-france/main/assets/dashboard_summary.png)
 
 🔎 *The full interactive dashboard can be downloaded from the `/powerbi` directory.*
 
