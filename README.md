@@ -8,6 +8,16 @@ The overall goal was to combine **statistical analysis** with an interactive **P
 
 ---
 
+## 📊 Power BI Dashboard Preview
+
+Below is a preview of one key page from the interactive Power BI dashboard:
+
+![Executive Summary Dashboard](link_to_image.png)
+
+🔎 *The full interactive dashboard can be downloaded from the `/powerbi` directory.*
+
+---
+
 ## 📁 Project Structure
 
 notebooks/  
@@ -42,13 +52,6 @@ report/
 - **Power BI** – Data modelling, visualization  
 - **GitHub** – Versioning and portfolio hosting  
 
----
-
-## 📊 Power BI Dashboard
-
-To explore the interactive dashboard:  
-1. Download the `.pbix` file from `/powerbi`  
-2. Open in **Power BI Desktop (Windows)**  
 
 ---
 
