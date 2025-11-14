@@ -18,6 +18,22 @@ Below is a preview of one key page from the interactive Power BI dashboard:
 
 ---
 
+## 📈 Example Python Visualization
+**A key plot from the exploratory analysis performed in Python.**
+
+![EDA Screenshot](path/to/image.png)
+
+---
+
+## 🧩 Data Model (Star Schema)
+
+This project uses a Star Schema to organize accident data efficiently for analysis in Power BI.
+
+![Data Model](https://raw.githubusercontent.com/markus-nordmann/road-accidents-france/main/assets/star_schema.png)
+
+
+---
+
 ## 📁 Project Structure
 
 notebooks/  
