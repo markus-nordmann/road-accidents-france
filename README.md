@@ -59,9 +59,15 @@ It includes methodology, detailed analysis, and key recommendations.
 
 ---
 
-## 👤 Author  
-**Markus Nordmann**  
-Data Analyst (Portfolio Track)  
-Passionate · Learning-oriented · Structured · Data-driven · Innovative 🧡
+
+## 👥 Authors
+
+- **Oscar Canivet**  
+- **Naomi Thandi Klingbeil**  
+- **Markus Nordmann**
+  
+
+> This GitHub repository is maintained by Markus Nordmann for portfolio purposes.
+
 
 
